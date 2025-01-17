@@ -1,5 +1,5 @@
 # AzureIA_ComputerVision_Image
-Configurando AI Vision Service e realizando testes práticos.
+Configurando AI Vision Service e realizar testes práticos.
 
 
 ### Ferramentas utilizadas:
@@ -8,12 +8,12 @@ Configurando AI Vision Service e realizando testes práticos.
 
 ### Pontos Importantes:
 
- - 
+- 
 
 ### Resumo (Passo-a-passo): Configuração Machine Learning:
 
- - 
- - 
+- 
+- 
 
 ### Detalhamento (Passo-a-passo): Configuração Machine Learning
 
