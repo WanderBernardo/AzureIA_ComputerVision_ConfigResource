@@ -10,11 +10,11 @@ Configurando AI Vision Service e realizar testes práticos.
 
 - 
 
-### Resumo (Passo-a-passo): Configuração Machine Learning:
+### Resumo (Passo-a-passo): Configuração Vision Service:
 
 - 
 - 
 
-### Detalhamento (Passo-a-passo): Configuração Machine Learning
+### Detalhamento (Passo-a-passo): Configuração Vision Service
 
 01 - 
