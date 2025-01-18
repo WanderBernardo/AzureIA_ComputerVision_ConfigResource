@@ -1,5 +1,5 @@
 # Azure Inteligência Artificial(IA) - Visão Computacional: Configuração do Resource
-Configurando AI Vision Service e realizar testes práticos.
+Criar repositorio onde será salvo o projeto juntamente configurar AI Vision Service e realizar testes práticos.
 
 
 ### Ferramentas utilizadas:
