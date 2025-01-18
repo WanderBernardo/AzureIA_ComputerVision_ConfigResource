@@ -9,6 +9,7 @@ Configurando AI Vision Service e realizar testes práticos.
 
 ### Pontos Importantes:
 
+- Caso esteja realizando apenas um prática de estudo, no final excluir tudo que foi construído nesse laboratório. Desta forma, minimiza o risco de ser cobrado algum valor. Lembre-se você está em um ambiente real de produção.
 - Documentação:
     + https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
     + https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
@@ -56,4 +57,21 @@ Imagina uma gaveteiro onde o gaveteiro inteiro é Subscriptiom e uma gaveta dess
 06 - Agora, selecionar o resource criado e clicar no botão ``` Select as default resource ```. Se tiver tudo certo, não vai acontecer nada. A tela não vai tremer! ksksk. Então click no botão ``` X ``` para voltar a tela anterior.
 ![image](https://github.com/user-attachments/assets/895c1d5f-d79e-446c-abb6-c5ae3273d704)
 
+### Atenção
+Caso esse ultimo passo apresente erro: ResourceOperationFailure: Resource provider [N/A] isn't registered with Subscription [N/A] . Então, deve realizar uma configuração e refazer a confiuração acima.
+   * Ir no portal da Azure: https://portal.azure.com/#home, fazer o login
+   * Na barra de pesquisa, escrever "Subscription"
+   * Selecionar o Subscription Name
+   * Vai abrir um novo menu, então selecionar "Resource providers"
+   * Selecionar:
+      + Microsoft.Cdn
+      + Microsoft.CostManagement
+Clicar no botão acima "Register".
 
+Links de ajuda:
+   * https://learn.microsoft.com/en-us/answers/questions/1983847/error-while-creating-a-managed-online-endpoint-in
+   * https://learn.microsoft.com/en-us/answers/questions/2129910/resource-provider-(n-a)-isnt-registered-with-subsc
+![image](https://github.com/user-attachments/assets/79e279f1-96a9-4301-978a-71128c464908)
+
+
+### Próximo Passo
