@@ -80,3 +80,4 @@ Links de ajuda:
 ### Próximo Passo
 
 https://github.com/WanderBernardo/AzureIA_ComputerVision_ServicesTests
+
