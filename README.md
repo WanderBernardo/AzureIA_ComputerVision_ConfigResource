@@ -49,7 +49,9 @@ Imagina uma gaveteiro onde o gaveteiro inteiro é Subscriptiom e uma gaveta dess
    * Tags: muito usado para criar filtros. Por exemplo: Quero fazer rateio para lançamento de custo por Departamento, então, cria as tags por departamento. Conforme sua necessidade.
 ![image](https://github.com/user-attachments/assets/8c6870b4-9686-4c93-b5c8-a049315f8e6b)
 
-### Após concluir a as configurações acima, Entrar no portal: ``` https://portal.vision.cognitive.azure.com/ ```. Esse portal é o Studio onde vamos trabalhar com a Inteligência Artificial (IA)
+### Após concluir a as configurações acima, Entrar no portal: ``` https://portal.vision.cognitive.azure.com/ ```
+
+Esse portal é o Studio onde vamos trabalhar com a Inteligência Artificial (IA)
 
 05 - Após realizar o login no site do Studio, então selecionar o resource criado na configuração acima. Clicar para visualizar todos resources.
 ![image](https://github.com/user-attachments/assets/f8221fac-044a-46a9-9282-3f6ff24a9294)
@@ -58,6 +60,7 @@ Imagina uma gaveteiro onde o gaveteiro inteiro é Subscriptiom e uma gaveta dess
 ![image](https://github.com/user-attachments/assets/895c1d5f-d79e-446c-abb6-c5ae3273d704)
 
 ### Atenção
+
 Caso esse ultimo passo apresente erro: ResourceOperationFailure: Resource provider [N/A] isn't registered with Subscription [N/A] . Então, deve realizar uma configuração e refazer a confiuração acima.
    * Ir no portal da Azure: https://portal.azure.com/#home, fazer o login
    * Na barra de pesquisa, escrever "Subscription"
@@ -66,13 +69,13 @@ Caso esse ultimo passo apresente erro: ResourceOperationFailure: Resource provid
    * Selecionar:
       + Microsoft.Cdn
       + Microsoft.CostManagement
-Clicar no botão acima "Register".
+   * Clicar no botão acima "Register".
+
+   ![image](https://github.com/user-attachments/assets/79e279f1-96a9-4301-978a-71128c464908)
 
 Links de ajuda:
    * https://learn.microsoft.com/en-us/answers/questions/1983847/error-while-creating-a-managed-online-endpoint-in
    * https://learn.microsoft.com/en-us/answers/questions/2129910/resource-provider-(n-a)-isnt-registered-with-subsc
-![image](https://github.com/user-attachments/assets/79e279f1-96a9-4301-978a-71128c464908)
-
 
 ### Próximo Passo
 
